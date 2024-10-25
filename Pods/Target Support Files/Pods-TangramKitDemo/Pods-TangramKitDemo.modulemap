@@ -1,0 +1,6 @@
+framework module Pods_TangramKitDemo {
+  umbrella header "Pods-TangramKitDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
